@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2da38689-8e92-4829-955d-bdf58d7e9629" name="impfservice" url="http://impfservice.s1810456022.student.kwmhgb.at">
+        <fileTransfer host="impfservice.s1810456022.student.kwmhgb.at" port="222" rootFolder="/usr/home/sstud60/public_html/impfservice" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
